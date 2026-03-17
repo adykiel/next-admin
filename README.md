@@ -24,7 +24,7 @@ pnpm intall
 # or
 bun install
 ```
-
+hdisuhfkshfk
 ## Start the app
 
 ```bash
